@@ -28,11 +28,15 @@ The HTML code refers to the Angel_wish.ttf font. You will need to find and downl
 Once you have the Angel_wish.ttf file, place it in the assets folder you created in step 4.
 Summary of the folder structure:
 
-MyWebsite/
-├── index.html
-├── script.js
-└── assets/
-    └── Angel_wish.ttf (You need to download and place this file here)
+MyWebsite/    Folder
+
+index.html    Name The HTML Like This
+
+script.js    Name The Javascript like this
+
+assets/      This is for the Photos a Folder Named like this
+
+Angel_wish.ttf (You need to download and place this file here)
 How to open the website:
 
 After saving all files as described:
